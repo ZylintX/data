@@ -1,1 +1,8 @@
-
+{
+  "engines": [
+    {
+      "name": "D3B",
+      "url": "https://raw.githubusercontent.com/ZylintX/data/refs/heads/main/D3B.json"
+    }
+  ]
+}
